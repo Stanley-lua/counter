@@ -1,0 +1,10 @@
+name: Wolf2789/counter
+description: Simple counter.
+version: 0.1
+author: 
+  - email: wolf2789@gmail.com
+    name: Dawid Bugajski
+autoload:
+  - type: global
+    name: counter
+    path: counter.lua
